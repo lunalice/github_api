@@ -1,1 +1,3 @@
 ACCESS_TOKEN={your_token}
+REPOSITORY={your_token}
+OWNER={your_token}
